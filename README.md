@@ -1,4 +1,7 @@
-# epic-sword-modell
-copyright© free 
+# Epic Sword Model
 
-this respetory and the asset are copyright© free and OPEN SOURCE
+This respository contains a high-quality custom sword model created in Blockbench
+
+## License
+
+This project is licensed under the [MIT license] (https://opensource.org/license/mit)
